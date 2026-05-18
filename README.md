@@ -3,7 +3,6 @@
 Modern payroll management website built with Laravel featuring employee, attendance, and payroll management system.
 
 🌐 Live Demo
-
 https://youtu.be/Z2kU738L1qw?si=H4slfmyYX_qS5dpM
 
 🌐 Repository  
